@@ -1,0 +1,20 @@
+{
+  "name": "oru-ritual-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Oru Ritual — 마음·얼굴·정신을 돌보는 5분 리추얼 앱 프로토타입",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11"
+  }
+}
